@@ -10,7 +10,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "MultiPolygon",
+        "type": "MultiPolygon",s
         "coordinates": [
           [
             [
@@ -449,7 +449,8 @@
         "ISO_A2": "AR",
         "ISO_A3": "ARG",
         "WB_A2": "AR",
-        "WB_A3": "ARG"
+        "WB_A3": "ARG",
+	"Vendors": "GlobalLogic"
       },
       "id": 8
     },
@@ -507,7 +508,8 @@
         "ISO_A2": "BE",
         "ISO_A3": "BEL",
         "WB_A2": "BE",
-        "WB_A3": "BEL"
+        "WB_A3": "BEL",
+	"Vendors": "Mobeye"
       },
       "id": 19
     },
@@ -586,7 +588,8 @@
         "ISO_A2": "HU",
         "ISO_A3": "HUN",
         "WB_A2": "HU",
-        "WB_A3": "HUN"
+        "WB_A3": "HUN",
+	"Vendors": "TechM"
       },
       "id": 101
     },
@@ -3492,7 +3495,8 @@
         "ISO_A2": "CA",
         "ISO_A3": "CAN",
         "WB_A2": "CA",
-        "WB_A3": "CAN"
+        "WB_A3": "CAN",
+	"Vendors": "GlobalLogic"
       },
       "id": 39
     },
@@ -4383,7 +4387,8 @@
         "ISO_A2": "CN",
         "ISO_A3": "CHN",
         "WB_A2": "CN",
-        "WB_A3": "CHN"
+        "WB_A3": "CHN",
+	"Vendors": "Appen"
       },
       "id": 42
     },
@@ -4493,7 +4498,8 @@
         "ISO_A2": "HR",
         "ISO_A3": "HRV",
         "WB_A2": "HR",
-        "WB_A3": "HRV"
+        "WB_A3": "HRV",
+	"Vendors": "GlobalLogic"
       },
       "id": 99
     },
@@ -4782,7 +4788,8 @@
         "ISO_A2": "FR",
         "ISO_A3": "FRA",
         "WB_A2": "FR",
-        "WB_A3": "FRA"
+        "WB_A3": "FRA",
+	"Vendors": "Mobeye"
       },
       "id": 77
     },
@@ -4958,7 +4965,8 @@
         "ISO_A2": "DE",
         "ISO_A3": "DEU",
         "WB_A2": "DE",
-        "WB_A3": "DEU"
+        "WB_A3": "DEU",
+	"Vendors": "Mobeye"
       },
       "id": 61
     },
@@ -5534,7 +5542,8 @@
         "ISO_A2": "IN",
         "ISO_A3": "IND",
         "WB_A2": "IN",
-        "WB_A3": "IND"
+        "WB_A3": "IND",
+	"Vendors": "GlobalLogic and TechM"
       },
       "id": 104
     },
@@ -5590,7 +5599,8 @@
         "ISO_A2": "IL",
         "ISO_A3": "ISR",
         "WB_A2": "IL",
-        "WB_A3": "ISR"
+        "WB_A3": "ISR",
+	"Vendors": "GlobalLogic"
       },
       "id": 111
     },
@@ -5836,7 +5846,8 @@
         "ISO_A2": "IT",
         "ISO_A3": "ITA",
         "WB_A2": "IT",
-        "WB_A3": "ITA"
+        "WB_A3": "ITA",
+	"Vendors": "Mobeye"
       },
       "id": 112
     },
@@ -6233,7 +6244,8 @@
         "ISO_A2": "JP",
         "ISO_A3": "JPN",
         "WB_A2": "JP",
-        "WB_A3": "JPN"
+        "WB_A3": "JPN",
+	"Vendors": "Mobeye"
       },
       "id": 116
     },
@@ -6333,7 +6345,8 @@
         "ISO_A2": "KE",
         "ISO_A3": "KEN",
         "WB_A2": "KE",
-        "WB_A3": "KEN"
+        "WB_A3": "KEN",
+	"Vendors": "Samasource"
       },
       "id": 120
     },
@@ -6427,7 +6440,8 @@
         "ISO_A2": "KR",
         "ISO_A3": "KOR",
         "WB_A2": "KR",
-        "WB_A3": "KOR"
+        "WB_A3": "KOR",
+	"Vendors": "Mobeye"
       },
       "id": 125
     },
@@ -6673,7 +6687,8 @@
         "ISO_A2": "MY",
         "ISO_A3": "MYS",
         "WB_A2": "MY",
-        "WB_A3": "MYS"
+        "WB_A3": "MYS",
+	"Vendors": "TechM"
       },
       "id": 160
     },
@@ -7098,7 +7113,8 @@
         "ISO_A2": "MX",
         "ISO_A3": "MEX",
         "WB_A2": "MX",
-        "WB_A3": "MEX"
+        "WB_A3": "MEX",
+	"Vendors": "TechM"
       },
       "id": 146
     },
@@ -7172,7 +7188,8 @@
         "ISO_A2": "NL",
         "ISO_A3": "NLD",
         "WB_A2": "NL",
-        "WB_A3": "NLD"
+        "WB_A3": "NLD",
+	"Vendors": "Mobeye"
       },
       "id": 168
     },
@@ -7727,7 +7744,8 @@
         "ISO_A2": "PH",
         "ISO_A3": "PHL",
         "WB_A2": "PH",
-        "WB_A3": "PHL"
+        "WB_A3": "PHL",
+	"Vendors": "Appen"
       },
       "id": 179
     },
@@ -7842,7 +7860,8 @@
         "ISO_A2": "PL",
         "ISO_A3": "POL",
         "WB_A2": "PL",
-        "WB_A3": "POL"
+        "WB_A3": "POL",
+	"Vendors": "GlobalLogic"
       },
       "id": 182
     },
@@ -7905,7 +7924,8 @@
         "ISO_A2": "SK",
         "ISO_A3": "SVK",
         "WB_A2": "SK",
-        "WB_A3": "SVK"
+        "WB_A3": "SVK",
+	"Vendors": "GlobalLogic"
       },
       "id": 213
     },
@@ -8160,7 +8180,8 @@
         "ISO_A2": "ES",
         "ISO_A3": "ESP",
         "WB_A2": "ES",
-        "WB_A3": "ESP"
+        "WB_A3": "ESP",
+	"Vendors": "Mobeye"
       },
       "id": 71
     },
@@ -8252,7 +8273,8 @@
         "ISO_A2": "UG",
         "ISO_A3": "UGA",
         "WB_A2": "UG",
-        "WB_A3": "UGA"
+        "WB_A3": "UGA",
+	"Vendors": "Samasource"
       },
       "id": 234
     },
@@ -8548,7 +8570,8 @@
         "ISO_A2": "GB",
         "ISO_A3": "GBR",
         "WB_A2": "GB",
-        "WB_A3": "GBR"
+        "WB_A3": "GBR",
+	"Vendors": "Appen and Mobeye"
       },
       "id": 81
     },
@@ -8772,7 +8795,8 @@
         "ISO_A2": "UA",
         "ISO_A3": "UKR",
         "WB_A2": "UA",
-        "WB_A3": "UKR"
+        "WB_A3": "UKR",
+	"Vendors": "Ukraine"
       },
       "id": 235
     },
@@ -10086,7 +10110,8 @@
         "ISO_A2": "US",
         "ISO_A3": "USA",
         "WB_A2": "US",
-        "WB_A3": "USA"
+        "WB_A3": "USA",
+	"Vendors": "Appen, Mobeye, and GlobalLogic"
       },
       "id": 238
     }
