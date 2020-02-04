@@ -10,7 +10,7 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "MultiPolygon",s
+        "type": "MultiPolygon",
         "coordinates": [
           [
             [
