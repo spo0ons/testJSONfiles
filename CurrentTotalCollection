@@ -63,7 +63,8 @@
         "WB_A2": "BE",
         "WB_A3": "BEL",
 	"CollectionVendors": "Mobeye",
-	"AnnotationVendors": " "
+	"AnnotationVendors": " ",
+	"PIICollectionVendors": " "
       },
       "id": 19
     },
@@ -956,7 +957,8 @@
         "WB_A2": "CN",
         "WB_A3": "CHN",
 	"CollectionVendors": "Appen",
-	"AnnotationVendors": " "
+	"AnnotationVendors": " ",
+	"PIICollectionVendors": " "
       },
       "id": 42
     },
@@ -1037,7 +1039,8 @@
         "WB_A2": "HU",
         "WB_A3": "HUN",
 	"CollectionVendors": "TechM",
-	"AnnotationVendors": "TechM"
+	"AnnotationVendors": "TechM",
+	"PIICollectionVendors": " "
       },
       "id": 101
     },
@@ -1328,7 +1331,8 @@
         "WB_A2": "FR",
         "WB_A3": "FRA",
 	"CollectionVendors": "Mobeye",
-	"AnnotationVendors": " "
+	"AnnotationVendors": " ",
+	"PIICollectionVendors": " "
       },
       "id": 77
     },
@@ -1506,7 +1510,9 @@
         "WB_A2": "DE",
         "WB_A3": "DEU",
 	"CollectionVendors": "Mobeye",
-	"AnnotationVendors": " "      },
+	"AnnotationVendors": " ",
+	"PIICollectionVendors": " "      
+      },
       "id": 61
     },
     {
@@ -2083,7 +2089,8 @@
         "WB_A2": "IN",
         "WB_A3": "IND",
 	"CollectionVendors": "GlobalLogic and TechM",
-	"AnnotationVendors": "GlobalLogic and TechM"
+	"AnnotationVendors": "GlobalLogic and TechM",
+	"PIICollectionVendors": "GlobalLogic"
       },
       "id": 104
     },
@@ -2331,7 +2338,8 @@
         "WB_A2": "IT",
         "WB_A3": "ITA",
 	"CollectionVendors": "Mobeye",
-	"AnnotationVendors": " "
+	"AnnotationVendors": " ",
+	"PIICollectionVendors": " "
       },
       "id": 112
     },
@@ -2730,7 +2738,8 @@
         "WB_A2": "JP",
         "WB_A3": "JPN",
 	"CollectionVendors": "Mobeye",
-	"AnnotationVendors": " "
+	"AnnotationVendors": " ",
+	"PIICollectionVendors": "Mobeye"
       },
       "id": 116
     },
@@ -2832,7 +2841,8 @@
         "WB_A2": "KE",
         "WB_A3": "KEN",
 	"CollectionVendors": "Samasource",
-	"AnnotationVendors": " "
+	"AnnotationVendors": " ",
+	"PIICollectionVendors": " "
       },
       "id": 120
     },
@@ -2928,7 +2938,8 @@
         "WB_A2": "KR",
         "WB_A3": "KOR",
 	"CollectionVendors": "Mobeye",
-	"AnnotationVendors": " "
+	"AnnotationVendors": " ",
+	"PIICollectionVendors": " "
       },
       "id": 125
     },
@@ -3176,7 +3187,8 @@
         "WB_A2": "MY",
         "WB_A3": "MYS",
 	"CollectionVendors": "TechM",
-	"AnnotationVendors": "TechM"
+	"AnnotationVendors": "TechM",
+	"PIICollectionVendors": " "
       },
       "id": 160
     },
@@ -3603,7 +3615,8 @@
         "WB_A2": "MX",
         "WB_A3": "MEX",
 	"CollectionVendors": "TechM",
-	"AnnotationVendors": "TechM"
+	"AnnotationVendors": "TechM",
+	"PIICollectionVendors": " "
       },
       "id": 146
     },
@@ -3679,7 +3692,8 @@
         "WB_A2": "NL",
         "WB_A3": "NLD",
 	"CollectionVendors": "Mobeye",
-	"AnnotationVendors": " "
+	"AnnotationVendors": " ",
+	"PIICollectionVendors": " "
       },
       "id": 168
     },
@@ -4236,7 +4250,8 @@
         "WB_A2": "PH",
         "WB_A3": "PHL",
 	"CollectionVendors": "Appen",
-	"AnnotationVendors": " "
+	"AnnotationVendors": " ",
+	"PIICollectionVendors": " "
       },
       "id": 179
     },
@@ -4493,7 +4508,8 @@
         "WB_A2": "ES",
         "WB_A3": "ESP",
 	"CollectionVendors": "Mobeye",
-	"AnnotationVendors": " "
+	"AnnotationVendors": " ",
+	"PIICollectionVendors": " "
       },
       "id": 71
     },
@@ -4587,7 +4603,8 @@
         "WB_A2": "UG",
         "WB_A3": "UGA",
 	"CollectionVendors": "Samasource",
-	"AnnotationVendors": " "
+	"AnnotationVendors": " ",
+	"PIICollectionVendors": " "
       },
       "id": 234
     },
@@ -4885,7 +4902,8 @@
         "WB_A2": "GB",
         "WB_A3": "GBR",
 	"CollectionVendors": "Appen and Mobeye",
-	"AnnotationVendors": " "
+	"AnnotationVendors": " ",
+	"PIICollectionVendors": " "
       },
       "id": 81
     },
@@ -6201,7 +6219,8 @@
         "WB_A2": "US",
         "WB_A3": "USA",
 	"CollectionVendors": "Appen and Mobeye",
-	"AnnotationVendors": " "
+	"AnnotationVendors": " ",
+	"PIICollectionVendors": "Mobeye"
       },
       "id": 238
     }
